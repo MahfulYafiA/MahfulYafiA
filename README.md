@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Enjoy+learning+to+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=enjoy+learning+to+code" alt="Typing SVG" />
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfulyafia&label=Profile%20views&color=0e75b6&style=flat" alt="mahfulyafia" /> </p>
