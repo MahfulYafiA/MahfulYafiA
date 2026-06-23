@@ -1,47 +1,47 @@
 <p align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIwMGp5MHc1MDVpc25hY3FoN2xkdmxnN2s4NHV0dDR5bjk2dnJmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" 
-    width="220" 
-    alt="coding gif" 
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIwMGp5MHc1MDVpc25hY3FoN2xkdmxnN2s4NHV0dDR5bjk2dnJmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"
+    width="220"
+    alt="coding gif"
   />
 </p>
 
 <h1 align="center">Hi I'm Mahful</h1>
 
 <h3 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=enjoy+learning+to+code" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Enjoy+learning+to+code"
+    alt="Typing SVG"
   />
 </h3>
 
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mahfulyafia&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="mahfulyafia" 
+  <img
+    src="https://komarev.com/ghpvc/?username=mahfulyafia&label=Profile%20views&color=0e75b6&style=flat"
+    alt="mahfulyafia"
   />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/mahful-yafi-asipattra" target="_blank" rel="noreferrer">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="mahful yafi asipattra" 
-      height="30" 
-      width="40" 
+  <a href="https://www.linkedin.com/in/mahful-yafi-asipattra-4675772b6/" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Mahful Yafi Asipattra"
+      height="30"
+      width="40"
     />
   </a>
 
   <a href="https://instagram.com/mahfulyf" target="_blank" rel="noreferrer">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="mahfulyf" 
-      height="30" 
-      width="40" 
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="mahfulyf"
+      height="30"
+      width="40"
     />
   </a>
 </p>
@@ -142,7 +142,7 @@
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
 
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
@@ -183,25 +183,27 @@
 </p>
 
 <p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfulyafia&show_icons=true&locale=en&layout=compact" 
-    alt="mahfulyafia" 
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfulyafia&show_icons=true&locale=en&layout=compact"
+    alt="mahfulyafia"
+  />
+</p>
+
+<br clear="both" />
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=mahfulyafia&show_icons=true&locale=en"
+    alt="mahfulyafia"
   />
 </p>
 
 <p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=mahfulyafia&show_icons=true&locale=en" 
-    alt="mahfulyafia" 
-  />
-</p>
-
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mahfulyafia&" 
-    alt="mahfulyafia" 
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mahfulyafia&"
+    alt="mahfulyafia"
   />
 </p>
