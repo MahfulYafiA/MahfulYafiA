@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX)" width="220" alt="coding gif" />
 </p>
 
 <h1 align="center">
