@@ -1,4 +1,15 @@
-<h1 align="center">Hi I'm Mahful</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
+</p>
+
+<h1 align="center">
+  Hi I'm Mahful
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=learn+to+code;Never+Give+Up;Welcome+to+my+GitHub" alt="Typing SVG" />
+</h3>
+
 <h3 align="center">learn to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfulyafia&label=Profile%20views&color=0e75b6&style=flat" alt="mahfulyafia" /> </p>
