@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX)" width="220" alt="coding gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdpbW1iNTc3cXdkaG8yOGt6amlmd2Z1eGFnZ3dkZXlxZ2pjOXpxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="220" alt="coding gif" />
 </p>
 
 <h1 align="center">
