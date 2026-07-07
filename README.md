@@ -41,7 +41,7 @@ alt="Profile views"
 <p align="left">
 
 
-<a href="https://www.linkedin.com/in/mahful-yafi-asipattra-4675772b6/" target="_blank">
+<a href="www.linkedin.com/in/mahful-yafi-asipattra-4675772b6" target="_blank">
 
 <img
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
