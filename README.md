@@ -1,5 +1,3 @@
-https://github.com/MahfulYafiA/MahfulYafiA/edit/main/README.md<div align="center">
-
 <img
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIwMGp5MHc1MDVpc25hY3FoN2xkdmxnN2s4NHV0dDR5bjk2dnJmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="220"
