@@ -183,25 +183,29 @@
 
 <hr />
 
+<hr />
+
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfulyafia&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfulyafia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
     alt="Top Languages"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mahfulyafia&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight&amp;hide_border=true"
+  <br><br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mahfulyafia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
-</p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mahfulyafia&amp;theme=tokyonight&amp;hide_border=true"
+  <br><br>
+
+  <img 
+    src="https://streak-stats.demolab.com?user=mahfulyafia&theme=tokyonight&hide_border=true&cache_seconds=86400"
     alt="GitHub Streak"
   />
-</p>
+
+</div>
