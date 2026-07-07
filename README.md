@@ -44,9 +44,10 @@ alt="Profile views"
 <a href="https://www.linkedin.com/in/mahful-yafi-asipattra-4675772b6/" target="_blank">
 
 <img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-height="35"
-width="45"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+height="40"
+width="40"
+alt="LinkedIn"
 />
 
 </a>
