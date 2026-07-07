@@ -324,13 +324,3 @@ alt="GitHub Streak"
 <h3 align="left">
 ⭐ Thanks for visiting my profile!
 </h3>
-
-
-<p align="left">
-
-<img
-src="https://komarev.com/ghpvc/?username=mahfulyafia&label=Profile%20Views&color=0e75b6&style=flat"
-alt="Profile Views"
-/>
-
-</p>
